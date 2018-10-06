@@ -1,4 +1,5 @@
 Version
+20181006    1.2     Customized URL Scheme
 20181006    1.1     Pagination
 20181006    1.0     Initial Release
 
@@ -15,3 +16,4 @@ iOS Schema
 網易雲播歌 orpheuswidget://download
 alipayHK 掃碼 alipayhk://platformapi/startapp?saId=10000007
 alipayHK 付款 alipayhk://platformapi/startapp?saId=20000056
+iMessage sms:youremail@ymail.com
