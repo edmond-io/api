@@ -1,2 +1,17 @@
 Version
-20181006 1.0     Initial Release
+20181006    1.1     Pagination
+20181006    1.0     Initial Release
+
+iOS Schema
+微信掃碼 weixin://scanqrcode
+支付寶掃碼 alipayqr://platformapi/startapp?saId=10000007
+支付寶付款 alipayqr://platformapi/startapp?saId=20000056
+螞蟻森林 alipays://platformapi/startapp?appId=60000002
+螞蟻莊園 alipays://platformapi/startapp?appId=66666674
+支付寶轉賬 alipayqr://platformapi/startapp?saId=20000116
+支付寶收款 alipayqr://platformapi/startapp?saId=20000123
+支付寶卡券 alipayqr://platformapi/startapp?saId=88888888
+餘額寶 alipayqr://platformapi/startapp?saId=20000032
+網易雲播歌 orpheuswidget://download
+alipayHK 掃碼 alipayhk://platformapi/startapp?saId=10000007
+alipayHK 付款 alipayhk://platformapi/startapp?saId=20000056
