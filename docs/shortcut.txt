@@ -1,4 +1,5 @@
 Version
+20181007    1.2.1   Next Page Button
 20181006    1.2     Customized URL Scheme
 20181006    1.1     Pagination
 20181006    1.0     Initial Release
